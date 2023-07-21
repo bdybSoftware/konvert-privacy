@@ -1,6 +1,6 @@
-Privacy Policy for Konvert: Convert & Calculate
+Privacy Policy for Konvert: Convert & Calculate, Random Number Generator
 
-1421 Software built the konvert app as a Free app. 
+1421 Software built the Konvert: Convert & Calculate, Random Number Generator apps as a Free app. 
 This SERVICE is provided by 1421 Software at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
