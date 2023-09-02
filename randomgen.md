@@ -26,6 +26,10 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 This policy is effective as of 2022-05-24
 
+Data Collected - 02.09.2023
+
+Google Analytics Data, approximate location (country of origin), app screens, clicked lottos
+
 Contact Us
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at 1421software@gmail.com.
